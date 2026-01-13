@@ -22,5 +22,8 @@ captures/
 .cxx/
 
 # Misc
-# If you use VCS at module level, you might also have:
-# /app/build/
+/app/build/
+/.idea/
+/.kotlin/
+/.idea/
+/gradle/
