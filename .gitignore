@@ -21,8 +21,6 @@ captures/
 .cxx/
 
 # Misc
-/app/build/
-/.idea/
-/.kotlin/
-/.idea/
-/gradle/
+.idea/
+
+
